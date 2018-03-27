@@ -3,4 +3,5 @@ An Introduction to Machine Learning Theory and Its Applications: A Visual Tutori
 https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 https://monkeylearn.com/blog/gentle-guide-to-machine-learning/
 
-my upcoming project machine vision project with tensorflow.
+my upcoming project machine vision project with tensorflow.<br>
+battery sorting app using tensorflow
