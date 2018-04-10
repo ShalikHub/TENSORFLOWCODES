@@ -7,3 +7,4 @@ https://monkeylearn.com/blog/gentle-guide-to-machine-learning/
 <h2>my upcoming project machine vision project with tensorflow.</h2><br>
 <h2>battery sorting app using tensorflow</h2>
 
+<h2>Determine how to install TensorFlow</h2><hr>
