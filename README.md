@@ -17,4 +17,8 @@ Virtualenv</br>
 
 Docker</br>
 
-installing from sources, which is documented in a separate guide.</br>
+installing from sources, which is documented in a separate guide.</br></hr>
+
+<p>Assuming the prerequisite software is installed on your Mac, take the following steps:</p>
+
+<p>Install TensorFlow by invoking one of the following commands:</p>
